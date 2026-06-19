@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# OBS: o arquivo database/associacao_moradores.db é mantido no repositório
+# de propósito, para que qualquer pessoa possa abri-lo direto no DB Browser
+# sem precisar recriar. Se preferir NÃO versionar o banco, descomente:
+# database/*.db
